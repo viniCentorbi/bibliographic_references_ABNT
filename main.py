@@ -54,4 +54,4 @@ def gerar_refencias(file, dia, mes, ano):
 	output_file.close()
 
 #Inserir o arquivo txt com  os links e a data de início aproximada do primeiro site acessado
-gerar_refencias('links.txt', 14, 9, 2021)
+gerar_refencias('exemplo_links.txt', 14, 9, 2021)
