@@ -1,0 +1,32 @@
+"How To Use OpenCV to Extract Information From Table Images". Disponível em: <https://analyticsindiamag.com/how-to-use-opencv-to-extract-information-from-table-images/>. Acessado em: 18 de Setembro em 2021.
+"How to use image preprocessing to improve the accuracy of Tesseract | by Kaan Kuguoglu | Towards Data Science". Disponível em: <https://towardsdatascience.com/getting-started-with-tesseract-part-ii-f7f9a0899b3f>. Acessado em: 15 de Setembro em 2021.
+"“Lendo imagens”! — Uma abordagem a OCR com Google tesseract e Python! | by Ronald Rodrigues | Code Experts". Disponível em: <https://blog.codeexpertslearning.com.br/lendo-imagens-uma-abordagem-à-ocr-com-google-tesseract-e-python-ee8e8009f2ab>. Acessado em: 28 de Outubro em 2021.
+"Text Detection and Extraction using OpenCV and OCR - GeeksforGeeks". Disponível em: <https://www.geeksforgeeks.org/text-detection-and-extraction-using-opencv-and-ocr/>. Acessado em: 28 de Outubro em 2021.
+"jTessBoxEditor - Tesseract box editor & trainer". Disponível em: <http://vietocr.sourceforge.net/training.html>. Acessado em: 19 de Setembro em 2021.
+"
+  VietOCR / Discussion / 
+  Help: jTessBoxEditor(FX) Mac Java 8 (1.8) not seeing some installed system fonts
+". Disponível em: <https://sourceforge.net/p/vietocr/discussion/833570/thread/c3aa1525/?limit=25#f6f1>. Acessado em: 27 de Outubro em 2021.
+"ocr - Tesseract training for a new font - Stack Overflow". Disponível em: <https://stackoverflow.com/questions/41295527/tesseract-training-for-a-new-font>. Acessado em: 19 de Setembro em 2021.
+"Tesseract OCR - Create Trained data for Seven segment (Sample) - YouTube". Disponível em: <https://www.youtube.com/watch?v=J0jg1Hj2GhU>. Acessado em: 27 de Outubro em 2021.
+"OpenCV Course - Full Tutorial with Python - YouTube". Disponível em: <https://www.youtube.com/watch?v=oXlwWbU8l2o>. Acessado em: 22 de Novembro em 2021.
+"Sem título". Disponível em: <https://professor.luzerna.ifc.edu.br/ricardo-antonello/wp-content/uploads/sites/8/2017/02/Livro-Introdução-a-Visão-Computacional-com-Python-e-OpenCV-3.pdf>. Acessado em: 24 de Outubro em 2021.
+"Not Acceptable!". Disponível em: <https://theailearner.com/2020/11/01/understanding-geometric-transformation-translation-using-opencv-python/>. Acessado em: 22 de Novembro em 2021.
+"Detecção de Objetos com Python e OpenCV – IA Expert Academy". Disponível em: <https://iaexpert.academy/courses/deteccao-objetos-python-opencv/>. Acessado em: 18 de Novembro em 2021.
+"🚀 HAAR CASCADE COM OPENCV PYTHON (COMO CRIAR O SEU) - PARTE 7 - YouTube". Disponível em: <https://www.youtube.com/watch?v=EFZ1B70FMc0>. Acessado em: 26 de Novembro em 2021.
+"Haar Cascade - Python + OpenCV, Treinando E Detectando Objetos : 9 Steps - Instructables". Disponível em: <https://www.instructables.com/Haar-Cascade-Python-OpenCV-Treinando-E-Detectando-/>. Acessado em: 21 de Outubro em 2021.
+"OpenCV: Canny Edge Detection". Disponível em: <https://docs.opencv.org/4.x/da/d22/tutorial_py_canny.html>. Acessado em: 17 de Outubro em 2021.
+"OpenCV: Image Processing in OpenCV". Disponível em: <https://docs.opencv.org/master/d2/d96/tutorial_py_table_of_contents_imgproc.html>. Acessado em: 18 de Setembro em 2021.
+"OpenCV createsamples and traincascade parameters (width and height) - Stack Overflow". Disponível em: <https://stackoverflow.com/questions/15138287/opencv-createsamples-and-traincascade-parameters-width-and-height>. Acessado em: 14 de Outubro em 2021.
+"Extracting text from images with Tesseract OCR, OpenCV, and Python". Disponível em: <https://www.opcito.com/blogs/extracting-text-from-images-with-tesseract-ocr-opencv-and-python>. Acessado em: 23 de Setembro em 2021.
+"Text Detection and Extraction using OpenCV and OCR - GeeksforGeeks". Disponível em: <https://www.geeksforgeeks.org/text-detection-and-extraction-using-opencv-and-ocr/>. Acessado em: 17 de Novembro em 2021.
+"Simple Digit Recognition OCR in OpenCV-Python - Stack Overflow". Disponível em: <https://stackoverflow.com/questions/9413216/simple-digit-recognition-ocr-in-opencv-python>. Acessado em: 28 de Setembro em 2021.
+"python - How does cv2.boundingRect() function of OpenCV work? - Stack Overflow". Disponível em: <https://stackoverflow-com.translate.goog/questions/42453605/how-does-cv2-boundingrect-function-of-opencv-work?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt-BR&_x_tr_pto=nui>. Acessado em: 17 de Outubro em 2021.
+"GitHub - MariaEduardaDeAzevedo/reconhecimento-de-formas: Programa feito para aprendizado com OpenCV e Python que detecta formas e as classifica em um vídeo ou imagem". Disponível em: <https://github.com/MariaEduardaDeAzevedo/reconhecimento-de-formas>. Acessado em: 20 de Setembro em 2021.
+"Home - NewBeDev". Disponível em: <https://newbedev-com.translate.goog/image-processing-to-improve-tesseract-ocr-accuracy?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt-BR&_x_tr_pto=nui>. Acessado em: 14 de Outubro em 2021.
+"“Lendo imagens”! — Uma abordagem a OCR com Google tesseract e Python! | by Ronald Rodrigues | Code Experts". Disponível em: <https://blog.codeexpertslearning.com.br/lendo-imagens-uma-abordagem-%C3%A0-ocr-com-google-tesseract-e-python-ee8e8009f2ab>. Acessado em: 17 de Setembro em 2021.
+"How to use image preprocessing to improve the accuracy of Tesseract". Disponível em: <https://www.freecodecamp.org/news/getting-started-with-tesseract-part-ii-f7f9a0899b3f/>. Acessado em: 17 de Setembro em 2021.
+"How to use image preprocessing to improve the accuracy of Tesseract | by Kaan Kuguoglu | Towards Data Science". Disponível em: <https://towardsdatascience.com/getting-started-with-tesseract-part-ii-f7f9a0899b3f>. Acessado em: 21 de Novembro em 2021.
+" Automação Web no Python Utilizando o Selenium". Disponível em: <https://www.hashtagtreinamentos.com/automacao-web-no-python>. Acessado em: 21 de Setembro em 2021.
+"Selenium WebDriver and Opera Driver - Stack Overflow". Disponível em: <https://stackoverflow.com/questions/24719270/selenium-webdriver-and-opera-driver>. Acessado em: 27 de Outubro em 2021.
+"Not Acceptable!". Disponível em: <https://acervolima.com/sobrepor-uma-imagem-em-outra-imagem-em-python/>. Acessado em: 26 de Setembro em 2021.
